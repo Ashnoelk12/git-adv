@@ -1,2 +1,3 @@
 print("hello coding world")
-print("Hidden my massive secrets")
+for i in range (10):
+    print (i)
